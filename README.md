@@ -3,6 +3,8 @@
 This repo contains the implementation for my Bachelor thesis [Semantic Image Synthesis with Score-Based Generative Models](https://github.com/TimK1998/Bachelorarbeit)
 
 by [Tim Küchler](tim.kuechler@online.de)
+
+Please find my thesis following this link: https://github.com/TimK1998/Bachelor-Thesis/blob/main/Bachelorarbeit.pdf
  
 --------------------
 
