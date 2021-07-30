@@ -4,7 +4,7 @@ This repo contains the implementation for my Bachelor thesis [Semantic Image Syn
 
 by [Tim Küchler](tim.kuechler@online.de)
 
-Please find my thesis following this link: https://github.com/TimK1998/Bachelor-Thesis/blob/main/Bachelorarbeit.pdf
+Please find my thesis in english language following this link: https://github.com/TimK1998/Bachelor-Thesis/blob/main/Bachelorarbeit.pdf
  
 --------------------
 
