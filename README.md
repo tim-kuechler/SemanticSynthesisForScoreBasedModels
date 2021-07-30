@@ -4,7 +4,7 @@ This repo contains the implementation for my Bachelor thesis [Semantic Image Syn
 
 by [Tim Küchler](tim.kuechler@online.de)
 
-Please find my thesis in english language following this link: https://github.com/TimK1998/Bachelor-Thesis/blob/main/Bachelorarbeit.pdf
+Please find my thesis (english) following this link: https://github.com/TimK1998/Bachelor-Thesis/blob/main/Bachelorarbeit.pdf
  
 --------------------
 
@@ -57,7 +57,7 @@ If you find the code useful for your research, please consider citing
     author="Tim Küchler",
     title={Semantic Image Synthesis with Score-Based Generative Models},
     year={2021}
-    howpublished={\url{https://github.com/TimK1998/SemanticSynthesisForScoreBasedModels}},
+    howpublished={\url{https://github.com/TimK1998/SemanticSynthesisForScoreBasedModels}}
 }
 ```
 
